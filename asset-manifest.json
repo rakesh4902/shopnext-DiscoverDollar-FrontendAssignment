@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopnext-DiscoverDollar-FrontendAssignment/static/css/main.162fd6b9.css",
+    "main.js": "/shopnext-DiscoverDollar-FrontendAssignment/static/js/main.03885bd7.js",
+    "index.html": "/shopnext-DiscoverDollar-FrontendAssignment/index.html",
+    "main.162fd6b9.css.map": "/shopnext-DiscoverDollar-FrontendAssignment/static/css/main.162fd6b9.css.map",
+    "main.03885bd7.js.map": "/shopnext-DiscoverDollar-FrontendAssignment/static/js/main.03885bd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162fd6b9.css",
+    "static/js/main.03885bd7.js"
+  ]
+}
