@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-bottom: 1px solid #ddd;
+}
+
+li:hover {
+  background-color: #e0e0e0;
+}
+
+ul ul {
+  padding-left: 20px;
+}
+
+li > span:last-child {
+  font-size: 16px;
+}
